@@ -1,0 +1,23 @@
+{
+  "BandHasMember": "the band ",
+  "CityLocatedAtRiver": "the city ",
+  "CompanyHasParentOrganisation": "the company ",
+  "CompoundHasParts": "the compound ",
+  "CountryBordersCountry": "the country ",
+  "CountryHasOfficialLanguage": "the country ",
+  "CountryHasStates": "the country ",
+  "FootballerPlaysPosition": "the footballer ",
+  "PersonCauseOfDeath": "the person ",
+  "PersonHasAutobiography": "the person ",
+  "PersonHasEmployer": "the person ",
+  "PersonHasNoblePrize": "the person ",
+  "PersonHasNumberOfChildren": "the person ",
+  "PersonHasPlaceOfDeath": "the person ",
+  "PersonHasProfession": "the person ",
+  "PersonHasSpouse": "the person ",
+  "PersonPlaysInstrument": "the person ",
+  "PersonSpeaksLanguage": "the person ",
+  "RiverBasinsCountry": "the river ",
+  "SeriesHasNumberOfEpisodes": "the series ",
+  "StateBordersState": "the state "
+}

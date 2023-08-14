@@ -1,0 +1,8 @@
+{
+  "few_shots": ["Question: Is Chris Cornell a band member of Soundgarden? Answer: Yes",
+    "Question: Is Bubanza Province part of the following country Burundi? Answer: Yes",
+    "Question: Does A Discovery of Witches have 50 episodes? Answer: No",
+    "Question: Does the country Algeria border the country Ukraine? Answer: No",
+    "Question: Does Joe Robinson play the following instrument guitar? Answer: Yes",
+    "Question: Does Melvin Calvin have 0 children? Answer: No"]
+}

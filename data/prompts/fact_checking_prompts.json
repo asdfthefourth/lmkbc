@@ -1,0 +1,23 @@
+{
+  "BandHasMember": "Is {subject_entity} a band member of {object_entity}?",
+  "CityLocatedAtRiver": "Is {subject_entity} go by the city {object_entity}?",
+  "CompanyHasParentOrganisation": "Is {subject_entity} the parent organisation of {object_entity}?",
+  "CompoundHasParts": "Is {subject_entity} part of the following compound {object_entity}?",
+  "CountryBordersCountry": "Does the country {subject_entity} border the country {object_entity}?",
+  "CountryHasOfficialLanguage": "Is {subject_entity} an official language of {object_entity}?",
+  "CountryHasStates": "Is {subject_entity} part of the following country {object_entity}?",
+  "FootballerPlaysPosition": "Does {subject_entity} play the following position {object_entity} in football?",
+  "PersonCauseOfDeath": "Is {subject_entity} the cause of death for {object_entity}?",
+  "PersonHasAutobiography": "Is {subject_entity} the name of the autobiography for {object_entity}?",
+  "PersonHasEmployer": "Does {subject_entity} employ {object_entity}?",
+  "PersonHasNoblePrize": "Does {object_entity} have a nobel prize in {subject_entity}?",
+  "PersonHasNumberOfChildren": "Does {object_entity} have {subject_entity} children?",
+  "PersonHasPlaceOfDeath": "Does {object_entity} have a nobel prize in {subject_entity}?",
+  "PersonHasProfession": "Is {object_entity} the profession that {subject_entity} works in?",
+  "PersonHasSpouse": "Is {subject_entity} married to {object_entity}?",
+  "PersonPlaysInstrument": "Does {subject_entity} play the following instrument {object_entity}?",
+  "PersonSpeaksLanguage": "Does {subject_entity} speak the following language {object_entity}?",
+  "RiverBasinsCountry": "Does {subject_entity} contain the basin for {object_entity}?",
+  "SeriesHasNumberOfEpisodes": "Does {object_entity} have {subject_entity} episodes?",
+  "StateBordersState": "Does the state {subject_entity} border the state {object_entity}?"
+}

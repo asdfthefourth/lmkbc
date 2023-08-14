@@ -1,0 +1,147 @@
+
+1. BandHasMember:
+   a) Can you name the individuals who form part of {subject_entity}'s band?
+   b) Who are the band members associated with {subject_entity}?
+   c) Identify the people that belong to the music group of {subject_entity}.
+   d) List the members that make up {subject_entity}'s band.
+   e) What are the names of the musicians in the band of {subject_entity}?
+
+2. CityLocatedAtRiver:
+   a) Which river flows through the city of {subject_entity}?
+   b) What is the name of the river that passes by {subject_entity}?
+   c) Identify the river where {subject_entity} is situated.
+   d) Mention the river on which the city of {subject_entity} is located.
+   e) Can you tell me the river running through {subject_entity}?
+
+3. CompanyHasParentOrganisation:
+   a) What organization acts as the parent company of {subject_entity}?
+   b) Identify the parent organization of {subject_entity}.
+   c) Which company is the parent organization for {subject_entity}?
+   d) What is the name of the parent company that owns {subject_entity}?
+   e) Can you tell me the company that is the parent of {subject_entity}?
+
+4. CountryBordersCountry:
+   a) Name the countries that share a border with {subject_entity}.
+   b) Which countries are neighboring {subject_entity}?
+   c) List the nations that have a border with {subject_entity}.
+   d) Identify the neighboring countries of {subject_entity}.
+   e) What are the countries that {subject_entity} shares its borders with?
+
+5. CountryHasOfficialLanguage:
+   a) What language is recognized as the official one for {subject_entity}?
+   b) Identify the official language used in {subject_entity}.
+   c) Which language is declared as the official tongue of {subject_entity}?
+   d) What is the officially recognized language of {subject_entity}?
+   e) Can you tell me the language that holds official status in {subject_entity}?
+
+1. CountryHasStates:
+   a) Can you name the states that belong to {subject_entity}?
+   b) List the states that are part of {subject_entity}.
+   c) Which states are included within the territory of {subject_entity}?
+   d) Identify the states that {subject_entity} comprises of.
+   e) What are the names of the states associated with {subject_entity}?
+
+2. FootballerPlaysPosition:
+   a) In football, what position does {subject_entity} hold?
+   b) Identify the playing position of {subject_entity} in football.
+   c) What role does {subject_entity} play in football?
+   d) Can you tell me the position {subject_entity} occupies on the football field?
+   e) Which specific position does {subject_entity} play in football?
+
+3. PersonCauseOfDeath:
+   a) How did {subject_entity} meet their end?
+   b) Identify the cause of {subject_entity}'s death.
+   c) What led to the demise of {subject_entity}?
+   d) Can you tell me what caused the passing of {subject_entity}?
+   e) What were the circumstances surrounding {subject_entity}'s death?
+
+4. PersonHasAutobiography:
+   a) What is the title of the autobiography written by {subject_entity}?
+   b) Can you name the autobiography authored by {subject_entity}?
+   c) Identify the book in which {subject_entity} penned down their life story.
+   d) What is the name of {subject_entity}'s autobiography?
+   e) Which book narrates the life experiences of {subject_entity}?
+
+5. PersonHasEmployer:
+   a) Who currently employs {subject_entity}?
+   b) Identify the employer of {subject_entity}.
+   c) What company or individual is employing {subject_entity}?
+   d) Can you tell me the name of {subject_entity}'s employer?
+   e) Who is the current employer of {subject_entity}?
+
+1. PersonHasNoblePrize:
+   a) For what achievement did {subject_entity} win the Nobel Prize?
+   b) Identify the field in which {subject_entity} received the Nobel Prize.
+   c) Can you tell me the category of the Nobel Prize awarded to {subject_entity}?
+   d) In which area did {subject_entity} make significant contributions to receive the Nobel Prize?
+   e) What field was recognized when {subject_entity} was awarded the Nobel Prize?
+
+2. PersonHasNumberOfChildren:
+   a) How many kids does {subject_entity} have?
+   b) Identify the number of children belonging to {subject_entity}.
+   c) Can you tell me the count of {subject_entity}'s offspring?
+   d) What is the total number of children that {subject_entity} has?
+   e) Mention the quantity of {subject_entity}'s children.
+
+3. PersonHasPlaceOfDeath:
+   a) Where did {subject_entity} pass away?
+   b) Identify the location of {subject_entity}'s death.
+   c) In which place did {subject_entity} breathe their last?
+   d) Can you tell me the city or country where {subject_entity} died?
+   e) What was the place of death for {subject_entity}?
+
+4. PersonHasProfession:
+   a) What does {subject_entity} do for a living?
+   b) Identify the profession or occupation of {subject_entity}.
+   c) Can you tell me the job or career of {subject_entity}?
+   d) What is the profession of {subject_entity}?
+   e) In which field does {subject_entity} work?
+
+5. PersonHasSpouse:
+   a) Who is the spouse of {subject_entity}?
+   b) Identify the person whom {subject_entity} is married to.
+   c) Can you tell me the name of {subject_entity}'s spouse?
+   d) Mention the individual that {subject_entity} is currently married to.
+   e) What is the name of {subject_entity}'s husband/wife?
+
+1. PersonPlaysInstrument:
+   a) What musical instrument is played by {subject_entity}?
+   b) Identify the instrument that {subject_entity} is skilled at playing.
+   c) Can you tell me which musical instrument {subject_entity} performs?
+   d) What is the primary instrument that {subject_entity} plays?
+   e) Which instrument does {subject_entity} have expertise in playing?
+
+2. PersonSpeaksLanguage:
+   a) Which languages does {subject_entity} know how to speak?
+   b) Identify the languages spoken by {subject_entity}.
+   c) Can you tell me the list of languages that {subject_entity} is fluent in?
+   d) What are the languages that {subject_entity} can communicate in?
+   e) What linguistic abilities does {subject_entity} possess?
+
+3. RiverBasinsCountry:
+   a) In which country can the {subject_entity} river basin be found?
+   b) Identify the country where you can locate the {subject_entity} river basin.
+   c) Can you tell me the nation that the {subject_entity} river basin belongs to?
+   d) What country does the {subject_entity} river basin fall within?
+   e) Mention the country that encompasses the {subject_entity} river basin.
+
+4. SeriesHasNumberOfEpisodes:
+   a) How many episodes does the series {subject_entity} have?
+   b) Identify the total number of episodes in {subject_entity} series.
+   c) Can you tell me the count of episodes in the {subject_entity} series?
+   d) What is the number of episodes in the series {subject_entity}?
+   e) Mention the total episode count of {subject_entity} series.
+
+5. StateBordersState:
+   a) Which states share a border with {subject_entity} state?
+   b) Identify the states that are adjacent to {subject_entity} state.
+   c) Can you tell me the states that have a common border with {subject_entity} state?
+   d) What are the neighboring states of {subject_entity} state?
+   e) Mention the states that border {subject_entity}.
+
+6. CompoundHasParts:
+   a) What components form {subject_entity}?
+   b) Identify the parts that constitute {subject_entity}.
+   c) Can you tell me the elements that make up {subject_entity}?
+   d) What are the individual constituents of {subject_entity}?
+   e) Mention the different parts that compose {subject_entity}.

@@ -1,0 +1,271 @@
+
+1. BandHasMember: Who are the members of {subject_entity}?
+
+    Can you name the individuals belonging to {subject_entity}'s band?
+    Provide a list of band members for {subject_entity}.
+    Who comprises the music group of {subject_entity}?
+    Which musicians are part of {subject_entity}'s band?
+    Identify the people who make up {subject_entity}'s musical ensemble.
+    List the members associated with {subject_entity}'s band.
+    I'd like to know the names of {subject_entity}'s band members.
+    Tell me about the individuals who play in {subject_entity}'s band.
+    What are the band members' names in the case of {subject_entity}?
+    Give me the member roster for {subject_entity}'s band.
+
+2. CityLocatedAtRiver: Which river is {subject_entity} located at?
+
+    Can you specify the river on which {subject_entity} is situated?
+    Tell me the name of the river where {subject_entity} can be found.
+    What river runs through {subject_entity}?
+    Identify the river that flows by {subject_entity}.
+    I'd like to know which river {subject_entity} is positioned along.
+    Provide information about the river located at {subject_entity}.
+    Which waterway is associated with {subject_entity}?
+    What is the name of the river that passes through {subject_entity}?
+    Mention the river where {subject_entity} is situated.
+    Which river can be found near {subject_entity}?
+
+3. CompanyHasParentOrganisation: What is the parent organization of {subject_entity}?
+
+    Identify the parent organization to which {subject_entity} belongs.
+    Can you name the company that is the parent organization of {subject_entity}?
+    Tell me about the parent company of {subject_entity}.
+    I'd like to know the name of {subject_entity}'s parent organization.
+    Provide information about the company that owns {subject_entity}.
+    Mention the parent organization of {subject_entity}.
+    Which company is the parent entity of {subject_entity}?
+    What is the name of the organization that controls {subject_entity}?
+    Who owns {subject_entity} as its parent company?
+    State the name of the parent organization for {subject_entity}.
+
+4. CountryBordersCountry: Which countries border {subject_entity}?
+
+    List the countries that share borders with {subject_entity}.
+    Can you tell me the neighboring countries of {subject_entity}?
+    Identify the nations that have borders adjoining {subject_entity}.
+    What countries are adjacent to {subject_entity}?
+    Provide information about the countries that border {subject_entity}.
+    I'd like to know the names of the countries that surround {subject_entity}.
+    Mention the neighboring nations of {subject_entity}.
+    Which countries share a border with {subject_entity}?
+    Tell me about the countries that are in close proximity to {subject_entity}.
+    What are the nations that have direct borders with {subject_entity}?
+
+5. CountryHasOfficialLanguage: What is the official language of {subject_entity}?
+
+    Can you tell me the language that serves as the official language of {subject_entity}?
+    Identify the official language used in {subject_entity}.
+    What language is recognized as the official one in {subject_entity}?
+    Provide information about the official language of {subject_entity}.
+    I'd like to know the designated official language of {subject_entity}.
+    Tell me about the language that is officially recognized in {subject_entity}.
+    Mention the official language spoken in {subject_entity}.
+    Which language is used for official purposes in {subject_entity}?
+    State the name of the language that is the official one in {subject_entity}.
+    What is the officially designated language for {subject_entity}?
+
+6. CountryHasStates: Which states are part of {subject_entity}?
+
+    Provide a list of states that belong to {subject_entity}.
+    Can you name the states that are part of {subject_entity}?
+    I'd like to know the names of the states in {subject_entity}.
+    Tell me about the states that are included within {subject_entity}.
+    Mention the states that form a part of {subject_entity}.
+    What are the constituent states of {subject_entity}?
+    Identify the states that fall under {subject_entity}.
+    Which states are associated with {subject_entity}?
+    State the names of the states that are part of {subject_entity}.
+
+7. FootballerPlaysPosition: What position does {subject_entity} play in football?
+
+    I'm curious about the football position played by {subject_entity}.
+    Can you tell me in which position {subject_entity} participates in football?
+    Provide information about the specific role of {subject_entity} in football.
+    What is the position held by {subject_entity} in football?
+    I'd like to know the football position at which {subject_entity} excels.
+    Tell me about the role {subject_entity} plays in football.
+    Mention the position {subject_entity} is known for in football.
+    Identify the football position that {subject_entity} occupies.
+    Which position does {subject_entity} typically play in football?
+    State the football position in which {subject_entity} is usually seen.
+
+8. PersonCauseOfDeath: What caused the death of {subject_entity}?
+
+    Can you tell me the reason behind {subject_entity}'s death?
+    Provide information about the cause of {subject_entity}'s demise.
+    What led to the passing away of {subject_entity}?
+    I'd like to know what caused {subject_entity}'s death.
+    Tell me about the circumstances surrounding {subject_entity}'s death.
+    Mention the cause of death of {subject_entity}.
+    Identify the factor that resulted in {subject_entity}'s death.
+    What is the cause of {subject_entity}'s passing?
+    State the reason for {subject_entity}'s death.
+    Share details about what led to {subject_entity}'s passing.
+
+9. PersonHasAutobiography: What is the title of {subject_entity}'s autobiography?
+
+    I'm interested in knowing the title of {subject_entity}'s autobiography.
+    Can you tell me what {subject_entity} named their autobiography?
+    Provide information about the title of the autobiography of {subject_entity}.
+    What is the name of the autobiography written by {subject_entity}?
+    I'd like to know the title of the book where {subject_entity} tells their life story.
+    Tell me about the name of {subject_entity}'s autobiography.
+    Mention the title of the book authored by {subject_entity}.
+    Identify the name of {subject_entity}'s autobiography.
+    What did {subject_entity} call their autobiography?
+    State the title of {subject_entity}'s life story book.
+
+10. PersonHasEmployer: Who is {subject_entity}'s employer?
+
+    Can you tell me the name of {subject_entity}'s employer?
+    Provide information about the company or person employing {subject_entity}.
+    Who does {subject_entity} work for as their employer?
+    I'd like to know the employer of {subject_entity}.
+    Tell me about {subject_entity}'s current place of employment.
+    Mention the name of {subject_entity}'s employer.
+    Identify the company or individual that employs {subject_entity}.
+    What is the name of the employer that hired {subject_entity}?
+    State the name of the company where {subject_entity} works.
+    Who currently employs {subject_entity}?
+
+11. PersonHasNoblePrize: In which field did {subject_entity} receive the Nobel Prize?
+
+    Tell me the area of expertise in which {subject_entity} was awarded the Nobel Prize.
+    Can you specify the field for which {subject_entity} received the Nobel Prize?
+    Provide information about the category in which {subject_entity} won the Nobel Prize.
+    I'd like to know the subject or domain for which {subject_entity} was honored with the Nobel Prize.
+    Mention the field of excellence that earned {subject_entity} the Nobel Prize.
+    What discipline was recognized when {subject_entity} was awarded the Nobel Prize?
+    Identify the particular field of achievement that led to {subject_entity}'s Nobel Prize.
+    Which area of contribution led to {subject_entity} being honored with the Nobel Prize?
+    State the domain or field of {subject_entity}'s Nobel Prize recognition.
+    What field of work did {subject_entity} excel in to receive the Nobel Prize?
+
+12. PersonHasNumberOfChildren: How many children does {subject_entity} have?
+
+    Can you tell me the number of children {subject_entity} has?
+    Provide information about the total count of {subject_entity}'s children.
+    What is the size of {subject_entity}'s family in terms of children?
+    I'd like to know how many kids {subject_entity} has.
+    Tell me the exact number of children belonging to {subject_entity}.
+    Mention the count of {subject_entity}'s offspring.
+    Identify the number of children born to {subject_entity}.
+    How many kids does {subject_entity} have in total?
+    State the total number of children for {subject_entity}.
+
+13. PersonHasPlaceOfDeath: Where did {subject_entity} die?
+
+    Can you tell me the location where {subject_entity} passed away?
+    Provide information about the place of death of {subject_entity}.
+    What is the specific city or location of {subject_entity}'s death?
+    I'd like to know where {subject_entity} breathed their last.
+    Tell me the exact place where {subject_entity} died.
+    Mention the city or country where {subject_entity} departed.
+    Identify the location of {subject_entity}'s passing.
+    Where did {subject_entity} take their last breath?
+    State the place where {subject_entity} met their end.
+    What is the site of {subject_entity}'s passing away?
+
+14. PersonHasProfession: What is {subject_entity}'s profession?
+
+    Can you tell me what {subject_entity} does for a living?
+    Provide information about the occupation or profession of {subject_entity}.
+    What is {subject_entity}'s line of work or job?
+    I'd like to know the career or profession pursued by {subject_entity}.
+    Tell me about the kind of work {subject_entity} is involved in.
+    Mention {subject_entity}'s current job or profession.
+    Identify the occupation or profession practiced by {subject_entity}.
+    What does {subject_entity} do as their profession?
+    State {subject_entity}'s area of expertise or job title.
+    What is the profession of {subject_entity}?
+
+15. PersonHasSpouse: Who is {subject_entity} married to?
+
+    Can you tell me the name of {subject_entity}'s spouse?
+    Provide information about the person to whom {subject_entity} is married.
+    Who is the life partner or spouse of {subject_entity}?
+    I'd like to know the name of {subject_entity}'s husband or wife.
+    Tell me about the individual whom {subject_entity} is married to.
+    Mention the name of the spouse of {subject_entity}.
+    Identify the person with whom {subject_entity} shares marital ties.
+    What is the name of {subject_entity}'s marital partner?
+    State the name of {subject_entity}'s spouse or partner.
+    Who is {subject_entity} currently married to?
+
+16. PersonPlaysInstrument: What instrument does {subject_entity} play?
+
+    Can you tell me the musical instrument that {subject_entity} plays?
+    Provide information about the instrument that {subject_entity} is skilled at playing.
+    What is {subject_entity}'s chosen musical instrument?
+    I'd like to know the name of the instrument {subject_entity} specializes in playing.
+    Tell me about the musical equipment with which {subject_entity} is proficient.
+    Mention the specific instrument that {subject_entity} is known for playing.
+    Identify the musical tool or instrument used by {subject_entity}.
+    Which instrument does {subject_entity} frequently perform on?
+    State the name of the musical instrument associated with {subject_entity}.
+    What instrument is typically played by {subject_entity}?
+
+17. PersonSpeaksLanguage: What languages does {subject_entity} speak?
+
+    Tell me the languages that {subject_entity} is fluent in.
+    Can you specify the languages spoken by {subject_entity}?
+    Provide information about the linguistic capabilities of {subject_entity}.
+    What are the different languages known by {subject_entity}?
+    I'd like to know the list of languages {subject_entity} can communicate in.
+    Mention the various languages spoken by {subject_entity}.
+    Identify the languages in which {subject_entity} is proficient.
+    Which languages can {subject_entity} speak or understand?
+    State the names of the languages that {subject_entity} is skilled at speaking.
+    What languages does {subject_entity} use for communication?
+
+18. RiverBasinsCountry: In which country can you find the {subject_entity} river basin?
+
+    Can you tell me the country where the {subject_entity} river basin is located?
+    Provide information about the nation where you can find the {subject_entity} river basin.
+    What country contains the {subject_entity} river basin?
+    I'd like to know the geographical location of the {subject_entity} river basin.
+    Tell me the name of the country that houses the {subject_entity} river basin.
+    Mention the nation in which the {subject_entity} river basin can be found.
+    Identify the country that encompasses the {subject_entity} river basin.
+    Which country's territory does the {subject_entity} river basin fall under?
+    State the country where the {subject_entity} river basin is situated.
+    In which country can we find the {subject_entity} river basin?
+
+19. SeriesHasNumberOfEpisodes: How many episodes does the series {subject_entity} have?
+
+    Can you tell me the total number of episodes in the series {subject_entity}?
+    Provide information about the episode count of the TV series {subject_entity}.
+    What is the number of episodes in {subject_entity} series?
+    I'd like to know how many episodes are there in {subject_entity} show.
+    Tell me about the total episode tally of {subject_entity} series.
+    Mention the number of episodes present in {subject_entity} show.
+    Identify the total count of episodes for the series {subject_entity}.
+    How many episodes have been produced for {subject_entity} series?
+    State the total number of episodes in the TV series {subject_entity}.
+    What is the episode count of the series {subject_entity}?
+
+20. StateBordersState: Which states border the state of {subject_entity}?
+
+    Tell me the names of the states that share borders with {subject_entity}.
+    Can you specify the neighboring states of {subject_entity}?
+    Provide information about the states that are adjacent to {subject_entity}.
+    What are the states that have a common border with {subject_entity}?
+    I'd like to know which states surround {subject_entity}.
+    Mention the states that border {subject_entity}.
+    Identify the states that are in close proximity to {subject_entity}.
+    Which states share a border with {subject_entity}'s state?
+    State the names of the neighboring states of {subject_entity}.
+    What states are connected to {subject_entity}'s state by borders?
+
+21. CompoundHasParts: What are the components of {subject_entity}?
+
+    Can you tell me the constituent elements of {subject_entity}?
+    Provide information about the individual parts or components of {subject_entity}.
+    What are the different elements that form {subject_entity}?
+    I'd like to know the specific parts that make up {subject_entity}.
+    Tell me about the components or pieces that constitute {subject_entity}.
+    Mention the various parts that combine to create {subject_entity}.
+    Identify the separate elements that comprise {subject_entity}.
+    Which components are involved in {subject_entity}?
+    State the names of the parts that form {subject_entity}.
+    What is {subject_entity} made up of in terms of its components?

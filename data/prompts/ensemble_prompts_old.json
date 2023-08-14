@@ -1,0 +1,1189 @@
+{
+  "BandHasMember": [
+    {
+      "id": 0,
+      "prompt": "Who are the members of {subject_entity}?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you name the individuals belonging to {subject_entity}'s band?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide a list of band members for {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "Who comprises the music group of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "Which musicians are part of {subject_entity}'s band?",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Identify the people who make up {subject_entity}'s musical ensemble.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "List the members associated with {subject_entity}'s band.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "I'd like to know the names of {subject_entity}'s band members.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Tell me about the individuals who play in {subject_entity}'s band.",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "What are the band members' names in the case of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "Give me the member roster for {subject_entity}'s band.",
+      "base_prompt": false
+    }
+  ],
+  "CityLocatedAtRiver": [
+    {
+      "id": 0,
+      "prompt": "Which river is {subject_entity} located at?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you specify the river on which {subject_entity} is situated?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Tell me the name of the river where {subject_entity} can be found.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "What river runs through {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "Identify the river that flows by {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "I'd like to know which river {subject_entity} is positioned along.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Provide information about the river located at {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Which waterway is associated with {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "What is the name of the river that passes through {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "Mention the river where {subject_entity} is situated.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "Which river can be found near {subject_entity}?",
+      "base_prompt": false
+    }
+  ],
+  "CompanyHasParentOrganisation": [
+    {
+      "id": 0,
+      "prompt": "What is the parent organization of {subject_entity}?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Identify the parent organization to which {subject_entity} belongs.",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Can you name the company that is the parent organization of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "Tell me about the parent company of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know the name of {subject_entity}'s parent organization.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Provide information about the company that owns {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the parent organization of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Which company is the parent entity of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "What is the name of the organization that controls {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "Who owns {subject_entity} as its parent company?",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "State the name of the parent organization for {subject_entity}.",
+      "base_prompt": false
+    }
+  ],
+  "CompoundHasParts": [
+    {
+      "id": 0,
+      "prompt": "What are the components of {subject_entity}?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me the constituent elements of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide information about the individual parts or components of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "What are the different elements that form {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know the specific parts that make up {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Tell me about the components or pieces that constitute {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the various parts that combine to create {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the separate elements that comprise {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Which components are involved in {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the names of the parts that form {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "What is {subject_entity} made up of in terms of its components?",
+      "base_prompt": false
+    }
+  ],
+  "CountryBordersCountry": [
+    {
+      "id": 0,
+      "prompt": "Which countries border {subject_entity}?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "List the countries that share borders with {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Can you tell me the neighboring countries of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "Identify the nations that have borders adjoining {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "What countries are adjacent to {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Provide information about the countries that border {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "I'd like to know the names of the countries that surround {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Mention the neighboring nations of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Which countries share a border with {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "Tell me about the countries that are in close proximity to {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "What are the nations that have direct borders with {subject_entity}?",
+      "base_prompt": false
+    }
+  ],
+  "CountryHasOfficialLanguage": [
+    {
+      "id": 0,
+      "prompt": "What is the official language of {subject_entity}?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me the language that serves as the official language of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Identify the official language used in {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "What language is recognized as the official one in {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "Provide information about the official language of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "I'd like to know the designated official language of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Tell me about the language that is officially recognized in {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Mention the official language spoken in {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Which language is used for official purposes in {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the name of the language that is the official one in {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "What is the officially designated language for {subject_entity}?",
+      "base_prompt": false
+    }
+  ],
+  "CountryHasStates": [
+    {
+      "id": 0,
+      "prompt": "Which states are part of {subject_entity}?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Provide a list of states that belong to {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Can you name the states that are part of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "I'd like to know the names of the states in {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "Tell me about the states that are included within {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Mention the states that form a part of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "What are the constituent states of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the states that fall under {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Which states are associated with {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the names of the states that are part of {subject_entity}.",
+      "base_prompt": false
+    }
+  ],
+  "FootballerPlaysPosition": [
+    {
+      "id": 0,
+      "prompt": "What position does {subject_entity} play in football?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "I'm curious about the football position played by {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Can you tell me in which position {subject_entity} participates in football?",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "Provide information about the specific role of {subject_entity} in football.",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "What is the position held by {subject_entity} in football?",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "I'd like to know the football position at which {subject_entity} excels.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Tell me about the role {subject_entity} plays in football.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Mention the position {subject_entity} is known for in football.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Identify the football position that {subject_entity} occupies.",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "Which position does {subject_entity} typically play in football?",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "State the football position in which {subject_entity} is usually seen.",
+      "base_prompt": false
+    }
+  ],
+  "PersonCauseOfDeath": [
+    {
+      "id": 0,
+      "prompt": "What caused the death of {subject_entity}?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me the reason behind {subject_entity}'s death?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide information about the cause of {subject_entity}'s demise.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "What led to the passing away of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know what caused {subject_entity}'s death.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Tell me about the circumstances surrounding {subject_entity}'s death.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the cause of death of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the factor that resulted in {subject_entity}'s death.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "What is the cause of {subject_entity}'s passing?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the reason for {subject_entity}'s death.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "Share details about what led to {subject_entity}'s passing.",
+      "base_prompt": false
+    }
+  ],
+  "PersonHasAutobiography": [
+    {
+      "id": 0,
+      "prompt": "What is the title of {subject_entity}'s autobiography?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "I'm interested in knowing the title of {subject_entity}'s autobiography.",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Can you tell me what {subject_entity} named their autobiography?",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "Provide information about the title of the autobiography of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "What is the name of the autobiography written by {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "I'd like to know the title of the book where {subject_entity} tells their life story.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Tell me about the name of {subject_entity}'s autobiography.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Mention the title of the book authored by {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Identify the name of {subject_entity}'s autobiography.",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "What did {subject_entity} call their autobiography?",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "State the title of {subject_entity}'s life story book.",
+      "base_prompt": false
+    }
+  ],
+  "PersonHasEmployer": [
+    {
+      "id": 0,
+      "prompt": "Who is {subject_entity}'s employer?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me the name of {subject_entity}'s employer?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide information about the company or person employing {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "Who does {subject_entity} work for as their employer?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know the employer of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Tell me about {subject_entity}'s current place of employment.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the name of {subject_entity}'s employer.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the company or individual that employs {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "What is the name of the employer that hired {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the name of the company where {subject_entity} works.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "Who currently employs {subject_entity}?",
+      "base_prompt": false
+    }
+  ],
+  "PersonHasNoblePrize": [
+    {
+      "id": 0,
+      "prompt": "In which field did {subject_entity} receive the Nobel Prize?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Tell me the area of expertise in which {subject_entity} was awarded the Nobel Prize.",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Can you specify the field for which {subject_entity} received the Nobel Prize?",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "Provide information about the category in which {subject_entity} won the Nobel Prize.",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know the subject or domain for which {subject_entity} was honored with the Nobel Prize.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Mention the field of excellence that earned {subject_entity} the Nobel Prize.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "What discipline was recognized when {subject_entity} was awarded the Nobel Prize?",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the particular field of achievement that led to {subject_entity}'s Nobel Prize.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Which area of contribution led to {subject_entity} being honored with the Nobel Prize?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the domain or field of {subject_entity}'s Nobel Prize recognition.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "What field of work did {subject_entity} excel in to receive the Nobel Prize?",
+      "base_prompt": false
+    }
+  ],
+  "PersonHasNumberOfChildren": [
+    {
+      "id": 0,
+      "prompt": "How many children does {subject_entity} have?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me the number of children {subject_entity} has?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide information about the total count of {subject_entity}'s children.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "What is the size of {subject_entity}'s family in terms of children?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know how many kids {subject_entity} has.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Tell me the exact number of children belonging to {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the count of {subject_entity}'s offspring.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the number of children born to {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "How many kids does {subject_entity} have in total?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the total number of children for {subject_entity}.",
+      "base_prompt": false
+    }
+  ],
+  "PersonHasPlaceOfDeath": [
+    {
+      "id": 0,
+      "prompt": "Where did {subject_entity} die?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me the location where {subject_entity} passed away?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide information about the place of death of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "What is the specific city or location of {subject_entity}'s death?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know where {subject_entity} breathed their last.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Tell me the exact place where {subject_entity} died.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the city or country where {subject_entity} departed.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the location of {subject_entity}'s passing.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Where did {subject_entity} take their last breath?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the place where {subject_entity} met their end.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "What is the site of {subject_entity}'s passing away?",
+      "base_prompt": false
+    }
+  ],
+  "PersonHasProfession": [
+    {
+      "id": 0,
+      "prompt": "What is {subject_entity}'s profession?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me what {subject_entity} does for a living?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide information about the occupation or profession of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "What is {subject_entity}'s line of work or job?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know the career or profession pursued by {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Tell me about the kind of work {subject_entity} is involved in.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention {subject_entity}'s current job or profession.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the occupation or profession practiced by {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "What does {subject_entity} do as their profession?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State {subject_entity}'s area of expertise or job title.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "What is the profession of {subject_entity}?",
+      "base_prompt": false
+    }
+  ],
+  "PersonHasSpouse": [
+    {
+      "id": 0,
+      "prompt": "Who is {subject_entity} married to?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me the name of {subject_entity}'s spouse?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide information about the person to whom {subject_entity} is married.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "Who is the life partner or spouse of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know the name of {subject_entity}'s husband or wife.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Tell me about the individual whom {subject_entity} is married to.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the name of the spouse of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the person with whom {subject_entity} shares marital ties.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "What is the name of {subject_entity}'s marital partner?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the name of {subject_entity}'s spouse or partner.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "Who is {subject_entity} currently married to?",
+      "base_prompt": false
+    }
+  ],
+  "PersonPlaysInstrument": [
+    {
+      "id": 0,
+      "prompt": "What instrument does {subject_entity} play?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me the musical instrument that {subject_entity} plays?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide information about the instrument that {subject_entity} is skilled at playing.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "What is {subject_entity}'s chosen musical instrument?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know the name of the instrument {subject_entity} specializes in playing.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Tell me about the musical equipment with which {subject_entity} is proficient.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the specific instrument that {subject_entity} is known for playing.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the musical tool or instrument used by {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Which instrument does {subject_entity} frequently perform on?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the name of the musical instrument associated with {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "What instrument is typically played by {subject_entity}?",
+      "base_prompt": false
+    }
+  ],
+  "PersonSpeaksLanguage": [
+    {
+      "id": 0,
+      "prompt": "What languages does {subject_entity} speak?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Tell me the languages that {subject_entity} is fluent in.",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Can you specify the languages spoken by {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "Provide information about the linguistic capabilities of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "What are the different languages known by {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "I'd like to know the list of languages {subject_entity} can communicate in.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the various languages spoken by {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the languages in which {subject_entity} is proficient.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Which languages can {subject_entity} speak or understand?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the names of the languages that {subject_entity} is skilled at speaking.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "What languages does {subject_entity} use for communication?",
+      "base_prompt": false
+    }
+  ],
+  "RiverBasinsCountry": [
+    {
+      "id": 0,
+      "prompt": "In which country can you find the {subject_entity} river basin?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me the country where the {subject_entity} river basin is located?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide information about the nation where you can find the {subject_entity} river basin.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "What country contains the {subject_entity} river basin?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know the geographical location of the {subject_entity} river basin.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Tell me the name of the country that houses the {subject_entity} river basin.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the nation in which the {subject_entity} river basin can be found.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the country that encompasses the {subject_entity} river basin.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Which country's territory does the {subject_entity} river basin fall under?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the country where the {subject_entity} river basin is situated.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "In which country can we find the {subject_entity} river basin?",
+      "base_prompt": false
+    }
+  ],
+  "SeriesHasNumberOfEpisodes": [
+    {
+      "id": 0,
+      "prompt": "How many episodes does the series {subject_entity} have?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Can you tell me the total number of episodes in the series {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Provide information about the episode count of the TV series {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "What is the number of episodes in {subject_entity} series?",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "I'd like to know how many episodes are there in {subject_entity} show.",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "Tell me about the total episode tally of {subject_entity} series.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the number of episodes present in {subject_entity} show.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the total count of episodes for the series {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "How many episodes have been produced for {subject_entity} series?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the total number of episodes in the TV series {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "What is the episode count of the series {subject_entity}?",
+      "base_prompt": false
+    }
+  ],
+  "StateBordersState": [
+    {
+      "id": 0,
+      "prompt": "Which states border the state of {subject_entity}?",
+      "base_prompt": true
+    },
+    {
+      "id": 1,
+      "prompt": "Tell me the names of the states that share borders with {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 2,
+      "prompt": "Can you specify the neighboring states of {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 3,
+      "prompt": "Provide information about the states that are adjacent to {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 4,
+      "prompt": "What are the states that have a common border with {subject_entity}?",
+      "base_prompt": false
+    },
+    {
+      "id": 5,
+      "prompt": "I'd like to know which states surround {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 6,
+      "prompt": "Mention the states that border {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 7,
+      "prompt": "Identify the states that are in close proximity to {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 8,
+      "prompt": "Which states share a border with {subject_entity}'s state?",
+      "base_prompt": false
+    },
+    {
+      "id": 9,
+      "prompt": "State the names of the neighboring states of {subject_entity}.",
+      "base_prompt": false
+    },
+    {
+      "id": 10,
+      "prompt": "What states are connected to {subject_entity}'s state by borders?",
+      "base_prompt": false
+    }
+  ]
+}
